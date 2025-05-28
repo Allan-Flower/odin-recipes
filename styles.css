@@ -1,14 +1,13 @@
 *{
     margin: 10px;
-}
-
-body {
-    background-color: rgb(250, 250, 152);
     font-family: Helvetica, sans-serif;
 }
 
+.recipe-body {
+    background-color: rgb(250, 250, 152);
+}
+
 .title{
-    margin: 10px;
     text-align: center;
 }
 
@@ -30,4 +29,13 @@ img{
 
 li{
     margin: 0px;
+}
+
+.home-button{
+    color: rgb(4, 42, 51);
+    font-size: 16px;
+}
+
+.homepage{
+
 }
